@@ -10,6 +10,11 @@ table td{
   border: solid 1px black;
 }
 
+table td p{
+  margin: 0 0 0 0 ;
+  border: 1px solid black;
+}
+
 
 
 .contenedor{
@@ -21,6 +26,10 @@ table td{
 .contenedor .parrafo h4{
   font-weight: normal;
   margin-left: -30px;
+}
+
+.contenedor .parrafo p{
+  margin-top: -20px;
 }
 
 
