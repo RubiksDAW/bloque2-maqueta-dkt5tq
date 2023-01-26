@@ -1,0 +1,26 @@
+table{
+  border: 1px solid black;
+}
+
+table th{
+  border:1px solid black
+}
+
+table td{
+  border: solid 1px black;
+}
+
+
+
+.contenedor{
+  display: flex;
+  align-items: center;
+  gap: 10%;
+  justify-content: center;
+}
+.contenedor .parrafo h4{
+  font-weight: normal;
+  margin-left: -30px;
+}
+
+
